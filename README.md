@@ -50,7 +50,6 @@ Here are sample pages from the interactive dashboard:
 <img width="1254" height="703" alt="Trends Light Mode" src="https://github.com/ranaibrahim4/Healthcare-Provider-Dashboard/blob/main/Trends%20Lightmode.png" />
 <img width="1254" height="703" alt="Trends Dark Mode" src="https://github.com/ranaibrahim4/Healthcare-Provider-Dashboard/blob/main/Trends%20Darkmode.png" />
 
-*Replace the image filenames and paths above with your actual dashboard image files.*
 
 
 
