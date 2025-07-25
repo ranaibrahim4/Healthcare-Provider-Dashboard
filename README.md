@@ -1,7 +1,7 @@
 # Healthcare Provider Dataset Dashboard
 
 ## Project Overview
-This project aims to analyze and visualize a comprehensive healthcare provider dataset. The goal is to extract actionable insights, track key performance indicators (KPIs), and present significant trends through an interactive dashboard.
+This project analyzes and visualizes a comprehensive healthcare provider dataset. The goal is to extract actionable insights, track key performance indicators (KPIs), and present significant trends through an interactive dashboard.
 
 ## Requirements
 
@@ -25,6 +25,7 @@ This project aims to analyze and visualize a comprehensive healthcare provider d
 - **Clarity:** Present data in a clear and concise manner, making it easy for stakeholders to understand the insights.
 
 ## Dataset Files
+
 - `cities.csv`
 - `departments.csv`
 - `diagnoses.csv`
@@ -35,6 +36,7 @@ This project aims to analyze and visualize a comprehensive healthcare provider d
 - `visits.csv`
 
 ## Getting Started
+
 1. Clone this repository.
 2. Install required dependencies (see below).
 3. Run the analysis and dashboard scripts (to be developed).
@@ -43,9 +45,17 @@ This project aims to analyze and visualize a comprehensive healthcare provider d
 
 Here are sample pages from the interactive dashboard:
 
+<img width="1254" height="703" alt="Dashboard Light Mode" src="images/dashboard-light-1.png" />
+<img width="1254" height="703" alt="Dashboard Dark Mode" src="images/dashboard-dark-1.png" />
+<img width="1254" height="703" alt="Trends Light Mode" src="images/dashboard-light-2.png" />
+<img width="1254" height="703" alt="Trends Dark Mode" src="images/dashboard-dark-2.png" />
+
+*Replace the image filenames and paths above with your actual dashboard image files.*
+
 ## Documentation
 
 For detailed methodology and additional information, see [healthcare.pdf](healthcare.pdf).
 
 ## License
-This project is for educational and analytical purposes. 
+
+This project is for educational and analytical purposes.
