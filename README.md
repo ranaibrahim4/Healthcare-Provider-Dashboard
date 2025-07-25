@@ -42,6 +42,7 @@ This project aims to analyze and visualize a comprehensive healthcare provider d
 ## Dashboard Previews
 
 Here are sample pages from the interactive dashboard:
+
 ![Dashboard Light Mode](<img width="1244" height="719" alt="Screenshot 2025-07-24 225010" src="https://github.com/user-attachments/assets/df2a2e09-6923-41dc-9c19-b06f24d36073" />
 )
 ![Dashboard Dark Mode](<img width="1244" height="721" alt="Screenshot 2025-07-24 225104" src="https://github.com/user-attachments/assets/4fca75d7-a619-4641-9b7f-4786ea067a62" />
