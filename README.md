@@ -54,7 +54,7 @@ Here are sample pages from the interactive dashboard:
 
 ## Documentation
 
-For detailed methodology and additional information, see [healthcare.pdf](healthcare.pdf).
+For detailed methodology and additional information, see [healthcare.pdf](https://github.com/ranaibrahim4/Healthcare-Provider-Dashboard/blob/main/healthcare.pdf).
 
 ## License
 
