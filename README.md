@@ -45,7 +45,8 @@ Here are sample pages from the interactive dashboard:
 
 <img width="1244" height="719" alt="Screenshot 2025-07-24 225010" src="https://github.com/user-attachments/assets/df2a2e09-6923-41dc-9c19-b06f24d36073" />
 <img width="1244" height="719" alt="Screenshot 2025-07-24 225010" src="https://github.com/ranaibrahim4/Healthcare-Provider-Dashboard/blob/main/Detail%20Darkmode.png"
-
+<img width="1244" height="719" alt="Screenshot 2025-07-24 225010" src="https://github.com/ranaibrahim4/Healthcare-Provider-Dashboard/blob/main/Trends%20Lightmode.png"
+<img width="1244" height="719" alt="Screenshot 2025-07-24 225010" src="https://github.com/ranaibrahim4/Healthcare-Provider-Dashboard/blob/main/Trends%20Darkmode.png"
 ## Documentation
 
 For detailed methodology and additional information, see [healthcare.pdf](healthcare.pdf).
