@@ -46,9 +46,9 @@ This project analyzes and visualizes a comprehensive healthcare provider dataset
 Here are sample pages from the interactive dashboard:
 
 <img width="1254" height="703" alt="Dashboard Light Mode" src="https://github.com/ranaibrahim4/Healthcare-Provider-Dashboard/blob/main/Detail%20Lightmode.png" />
-<img width="1254" height="703" alt="Dashboard Dark Mode" src="images/dashboard-dark-1.png" />
-<img width="1254" height="703" alt="Trends Light Mode" src="images/dashboard-light-2.png" />
-<img width="1254" height="703" alt="Trends Dark Mode" src="images/dashboard-dark-2.png" />
+<img width="1254" height="703" alt="Dashboard Dark Mode" src="https://github.com/ranaibrahim4/Healthcare-Provider-Dashboard/blob/main/Detail%20Darkmode.png" />
+<img width="1254" height="703" alt="Trends Light Mode" src="https://github.com/ranaibrahim4/Healthcare-Provider-Dashboard/blob/main/Trends%20Lightmode.png" />
+<img width="1254" height="703" alt="Trends Dark Mode" src="https://github.com/ranaibrahim4/Healthcare-Provider-Dashboard/blob/main/Trends%20Darkmode.png" />
 
 *Replace the image filenames and paths above with your actual dashboard image files.*
 
