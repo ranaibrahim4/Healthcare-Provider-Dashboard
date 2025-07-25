@@ -38,7 +38,7 @@ This project analyzes and visualizes a comprehensive healthcare provider dataset
 ## Getting Started
 
 1. Clone this repository.
-2. Install required dependencies (see below).
+2. Install required dependencies 
 3. Run the analysis and dashboard scripts (to be developed).
 
 ## Dashboard Previews
